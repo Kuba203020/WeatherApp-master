@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="add_city">Dodaj miasto</string>
+    <string name="change_city">Zmiana miasta</string>
+    <string name="add">Dodaj</string>
+    <string name="change">Zmień</string>
+    <string name="cancel">Anuluj</string>
+    <string name="error_network">Brak połączenia z internetem</string>
+    <string name="error_select_city">Błąd, zmień miasto</string>
+    <string name="error_wrong_city">Błąd, nie znaleziono miasta</string>
+    <string name="delete">Usuń</string>
+    <string name="no_result">Brak wyników</string>
+
+</resources>
